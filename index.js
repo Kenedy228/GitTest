@@ -1,2 +1,2 @@
 const color = "Black";
-const name = "Danil";
+let index = 1;
